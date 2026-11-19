@@ -1,4 +1,5 @@
-#3Python Assignment 2
+#Python Assignment 2
+
 This repository contains three Python programs completed as part of my 10000 Coders daily assignments.
 
 #Programs
