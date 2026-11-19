@@ -4,18 +4,18 @@ This repository contains three Python programs completed as part of my 10000 Cod
 
 #Programs
  1. Area and Perimeter
-   A Python program to calculate the area and perimeter of:
+     A Python program to calculate the area and perimeter of:
 
-   *Circle
+    *Circle
 
-   *Rectangle
+    *Rectangle
 
-   *Square
+    *Square
 
  2. Triangle Validation
    
-   A Python program to check whether three given sides can form a triangle using the triangle inequality condition.
+    A Python program to check whether three given sides can form a triangle using the triangle inequality condition.
 
- 4. Quadrant Identification
+ 3. Quadrant Identification
    
-   A Python program to identify the quadrant of a given coordinate point (x, y).
+     A Python program to identify the quadrant of a given coordinate point (x, y).
